@@ -1,4 +1,9 @@
 # Diary
 
-A chronology of important events.
+* A chronology of important events: [2017](2017.mkd), [2018](2018.mkd)
+* [Studies](studies.mkd).
+* [Opinions](opinions.mkd) of other people.
+* My [commentary](commentary.mkd) on events.
+* My [realizations](realizations.mkd).
+* Notes on [feminism](feminism.mkd).
 
