@@ -6,4 +6,5 @@
 * My [commentary](commentary.mkd) on events.
 * My [realizations](realizations.mkd).
 * Notes on [feminism](feminism.mkd).
+* Notes on [white privilege](white privilege.mkd).
 
