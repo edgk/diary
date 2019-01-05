@@ -1,6 +1,6 @@
 # Diary
 
-* A chronology of important events: [2017](2017.mkd), [2018](2018.mkd)
+* A chronology of important events: [2017](2017.mkd), [2018](2018.mkd), [2019](2019.mkd)
 * [Studies](studies.mkd).
 * [Opinions](opinions.mkd) of other people.
 * My [commentary](commentary.mkd) on events.
