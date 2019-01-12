@@ -1,5 +1,7 @@
 # Diary
 
+Goal: Document the underlying structure of our current slice of reality and how it changes over time.
+
 * A chronology of important events: [2017](2017.mkd), [2018](2018.mkd), [2019](2019.mkd)
 * [Studies](studies.mkd).
 * [Opinions](opinions.mkd) of other people.
@@ -7,4 +9,6 @@
 * My [realizations](realizations.mkd).
 * Notes on [feminism](feminism.mkd).
 * Notes on [white privilege](white privilege.mkd).
+
+[Horkheimer erklärt Demagogie](https://www.youtube.com/watch?v=BsuQVm1H8-I)
 
