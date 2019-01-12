@@ -11,5 +11,18 @@ Goal: Document the underlying structure of our current slice of reality and how 
 * Notes on [refugees](refugees.mkd).
 * Notes on [white privilege](white_privilege.mkd).
 
+
 [Horkheimer erklärt Demagogie](https://www.youtube.com/watch?v=BsuQVm1H8-I)
+
+
+## The scientific method
+Our best tool to be less wrong over time.
+
+![scientific method](assets/scientific_method.gif "scientific method")
+
+
+## The disagreement hierarchy
+Aim for the top.
+
+![disagreement hierarchy](assets/disagreement_hierarchy.jpg "disagreement hierarchy")
 
