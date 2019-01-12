@@ -9,7 +9,7 @@ Goal: Document the underlying structure of our current slice of reality and how 
 * My [realizations](realizations.mkd).
 * Notes on [feminism](feminism.mkd).
 * Notes on [refugees](refugees.mkd).
-* Notes on [white privilege](white privilege.mkd).
+* Notes on [white privilege](white_privilege.mkd).
 
 [Horkheimer erklärt Demagogie](https://www.youtube.com/watch?v=BsuQVm1H8-I)
 
