@@ -9,6 +9,8 @@ Goal: Document the underlying structure of our current slice of reality and how 
 * My [realizations](realizations.mkd).
 * Notes on [feminism](feminism.mkd).
 * Notes on [refugees](refugees.mkd).
+* Notes on [tribalism](tribalism.mkd).
+* Notes on [islam](islam.mkd).
 * Notes on [white privilege](white_privilege.mkd).
 
 
